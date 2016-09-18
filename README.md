@@ -1,2 +1,6 @@
-# template
-template gm#{country}#{version} repository
+# gm#{country}#{version}: Global Map #{country} #{version}
+
+## note
+Credit: ///
+Contact: ///
+E-mail: ///
